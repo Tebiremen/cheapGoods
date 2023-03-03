@@ -1,5 +1,5 @@
 # Cheap Goods
-Cheap Goods is a p2p platform that enables local products at an affordable rate
+CheapGoods is a p2p platform that enables local products at an affordable rate. We founded CheapGoods with one goal in mind: providing high-quality carefully developed products, made for everyone, so Every items counts.
 
 ## Web Infrastructure
 ![](./images/infrastructure_design.PNG)

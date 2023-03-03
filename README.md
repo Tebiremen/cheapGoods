@@ -23,3 +23,8 @@ Cheap Goods is a p2p platform that enables local products at an affordable rate
 │   └── templates
 ├── main.py
 ```
+
+AHOUTRS
+Aitebiremen Okojie <https://github.com/tebiremen>
+SAmuel Iyebhora <https://github.com/sammykingx>
+Chinedu Ugokwe <https://github.com/>
